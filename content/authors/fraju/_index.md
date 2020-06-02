@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Franziska Jungmann
 
 # Username (this should match the folder name)
 authors:
-- admin
+- fraju
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Dr.
 
 # Organizations/Affiliations
 organizations:
