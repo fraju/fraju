@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Franziska Jungmann
+title: Dr. Franziska Jungmann
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Dr.
+role: Training, Coaching, Beratung
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+# organizations:
+# - name: Technische Universität Dresden
+#   url: ""
+# - name: University of British Columbia, Vancouver (Kanada)
+#   url: ""
+# - name: Portland State University, Portland (USA)
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Interessen:
+- Führung und Teamarbeit
+- Diversität und Demographie
+- Arbeit und Gesundheit
 
-education:
+Ausbildung:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Promotion in Arbeits- und Organisationspsychologie
+    institution: TU Dresden
+    year: 2019
+  - course: Diplom in Psychologie
+    institution: TU Dresden
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +48,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/fraaaju
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=3oPs0BkAAAAJ
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/franziska-jungmann
+- icon: xing-square
+  icon_pack: fab
+  link: https://www.xing.com/profile/Franziska_Jungmann
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +74,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ich bin Arbeits- und Organisationspsychologin und seit 2008 als Beratin und Trainerin tätig, vor allem zum Thema Führungskompetenzen und Teamentwicklung. Ich begleite Menschen und Organisationen seit einigen Jahren mit Einzelcoachings, Workshopmoderationen, Trainings für Fach- und Führungskräfte und Teamentwicklungen. Zudem unterstütze ich bei Veränderungsprojekten sowie wie Fachvorträgen und -impulsen.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nach meinem Diplom-Studium in Psychologie habe ich zum Thema Diversität, Führung und Gesundheit geforscht und gelehrt. In dieser Zeit habe ich zum Thema Führung von jungen und alten Mitarbeitern im Arbeitskontext promoviert. Seither arbeitete ich in verschiedenen Organisationen im Bereich Personal- und Organisationsentwicklung (u.a. Gesundheitswesen, Bank, öffentlicher Dienst) und war als nebenberufliche Lehrbeauftragte sowohl an staatlichen als auch privaten Hochschulen tätig. 
+
+Arbeitswelt und Forschung? Sowohl die Praxis als auch die Forschung zu Arbeit und Organisationen können viel voneinander profitieren und lernen. Daher ist es mir besonders wichtig, eine Verbindung zwischen Wissenschaft und Praxis zu schaffen (u.a. wissenschaftliche Erkenntnisse in die Praxis bringen, Maßnehmen in PE und OE evidenzbasiert gestalten und wissenschaftlich evaluieren). Wissenschaftlich arbeite ich u.a. an den Themen der psychischen Belastung bei der Arbeit, der Zusammenarbeit von Jung und Alt und der Konzipierung sowie Evaluation von Maßnahmen der Führungskräfteentwicklung.

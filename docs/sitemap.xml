@@ -3,11 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/aging-workforce/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jungmann-f/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/leadership/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/adigutraining/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/liebermann-s-c/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ries-b-c/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/schmidt-k-h/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/training/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/wegge-j/</loc>
+    <lastmod>2020-07-08T23:01:04+02:00</lastmod>
   </url>
   
   <url>
@@ -15,7 +82,7 @@
   </url>
   
   <url>
-    <loc>/author/franziska-jungmann/</loc>
+    <loc>/author/dr.-franziska-jungmann/</loc>
   </url>
   
   <url>
@@ -23,19 +90,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

@@ -21,6 +21,12 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Teaching"
+  description = "100%" 
+  
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"

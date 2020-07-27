@@ -1,3 +1,36 @@
+# Deployment - Infos für Franzi: 
+
+http://localhost:1313/
+
+* ändern von Dateien mit .toml oder .md in R-Studio
+* im Terminal im root-Verzeichnis `hugo` [einfache Kompilierung] oder `hugo serve` [kompilieren und Server starten für localhost-Abfrage --> http://localhost:1313/ ] eingeben
+* Server abbrechen mit   ctrl + c   im Terminal
+
+* im Terminal (in R-Studio bzw. im regulären Terminal im Verzeichnis "/Users/fraju/Documents/franziskajungmann.de/fraju" mit `cd /Users/fraju/Documents/franziskajungmann.de/fraju` ansteuern) 
+* docs-Verzeichnis muss auf github hoch - wie?
+im Terminal (oder R-Studio-Terminal) eingeben: `git push` 
+
+
+* cd /Users/fraju/Documents/franziskajungmann.de/fraju
+## in R mit Markdown
+
+* liste
+* liste
+
+**mgfkhgfkjg**
+*mgfkhgfkjg*
+[text](http://www.katzien.de)
+
+## Überschrift 2 Teil 2
+
+hallo
+
+blub
+
+
+
+
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
