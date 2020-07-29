@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Auswahl und Entwicklung von Führungskräften"
-summary: "Führungskräfte"
+title: "Personal auswählen und entwickeln"
+summary: "Fach- und Führungskräfte zuverlässig auswählen und wirksam entwickeln"
 authors: []
-tags: ["Führung", "Anleitung", "Führungskräfte"]
+tags: ["Führung", "Führungskräfte", "Personalauswahl", "Personalentwicklung", "Evaluation"]
 categories: []
 date: 2020-07-27T15:49:31+02:00
 
@@ -40,14 +40,21 @@ url_video: ""
 slides: ""
 ---
 
+Zuverlässige Personaldiagnostik und wirksame Personalentwicklung.
 
 Beschreibung folgt.
 
 
-### Portfolio
+### Portfolio, u.a.
 
-* Beratung zur Gestaltung und Implementierung von Programmen für Spezialisten/ Fachkräfte und Führungskräfte 
-* Konzipierung von Verfahren zur Identifikation von und Förderung von Nachwuchsführungskräften
-* Coaching für Führungskräfte
-* Coaching für Spezialisten/ Fachkräfte/ Fachexperten (u.a. zur Findung und Definition der eigenen Rolle bzw. Position) 
+* Beratung zur Konzipierung von Verfahren zur Identifikation von und Förderung von Nachwuchsführungskräften
+* Beratung zur Konzipierung von Verfahren der Personalauswahl
+
+* Beratung zur Gestaltung und Implementierung von Entwicklungs- und Förderungsprogrammen für Spezialisten/ Fachkräfte und Führungskräfte 
+* Beratung zu Evaluationsstrategien der Personalentwicklung sowie Begleitung bei der Evaluation (u.a. Konzipierung und Durchführung von Befragungen, Interviews oder Workshops)
+
+* Schulung zu Strategien und Verfahren der Personalauswahl 
+* Schulung zu Strategien und Verfahren der Personalentwicklung
+
+
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Coaching"
-summary: "xbx nöo öouö hb"
+summary: "Systemisches und lösungsorientiertes Coaching"
 authors: []
 tags: ["Beratung", "Training"]
 categories: []
@@ -46,8 +46,6 @@ Sie suchen jemanden, der Sie beim Verfolgen kleinerer oder größerer Ziele unte
 
 
 Als Coach unterstütze ich Personen oder Teams dabei, bei ihren Themen Klarheit zu finden, diese zu bearbeiten, zu reflektieren und auch umzusetzen. Sie und Ihr Anliegen bestimmen den Inhalt. Ihre Stärken stehen im Fokus und sind der Schlüssel zur Veränderung der Situation.
-
-# meine Arbeitswiese
 
 ## Mögliche Themen im Coaching sind
 * Positionierung in einer Fach-/ Führungsrolle

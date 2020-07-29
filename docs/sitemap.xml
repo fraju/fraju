@@ -33,17 +33,7 @@
   </url>
   
   <url>
-    <loc>/project/personal/</loc>
-    <lastmod>2020-07-27T15:49:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/anleitung/</loc>
-    <lastmod>2020-07-27T15:49:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/fuehrung/</loc>
+    <loc>/tag/evaluation/</loc>
     <lastmod>2020-07-27T15:49:31+02:00</lastmod>
   </url>
   
@@ -54,6 +44,21 @@
   
   <url>
     <loc>/tag/fuhrungskrafte/</loc>
+    <lastmod>2020-07-27T15:49:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/fuehrung/</loc>
+    <lastmod>2020-07-27T15:49:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/personalauswahl/</loc>
+    <lastmod>2020-07-27T15:49:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/personalentwicklung/</loc>
     <lastmod>2020-07-27T15:49:31+02:00</lastmod>
   </url>
   
