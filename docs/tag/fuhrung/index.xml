@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Führung | Training und Beratung | Dr. Franziska Jungmann</title>
+    <link>/tag/fuhrung/</link>
+      <atom:link href="/tag/fuhrung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Führung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 15:49:31 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Führung</title>
+      <link>/tag/fuhrung/</link>
+    </image>
+    
+    <item>
+      <title>Auswahl und Entwicklung von Führungskräften</title>
+      <link>/project/fuehrung/</link>
+      <pubDate>Mon, 27 Jul 2020 15:49:31 +0200</pubDate>
+      <guid>/project/fuehrung/</guid>
+      <description>&lt;p&gt;Beschreibung folgt.&lt;/p&gt;
+&lt;h3 id=&#34;portfolio&#34;&gt;Portfolio&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Beratung zur Gestaltung und Implementierung von Programmen für Spezialisten/ Fachkräfte und Führungskräfte&lt;/li&gt;
+&lt;li&gt;Konzipierung von Verfahren zur Identifikation von und Förderung von Nachwuchsführungskräften&lt;/li&gt;
+&lt;li&gt;Coaching für Führungskräfte&lt;/li&gt;
+&lt;li&gt;Coaching für Spezialisten/ Fachkräfte/ Fachexperten (u.a. zur Findung und Definition der eigenen Rolle bzw. Position)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
