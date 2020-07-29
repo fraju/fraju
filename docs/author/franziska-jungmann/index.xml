@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Franziska Jungmann | Academic</title>
+    <title>Franziska Jungmann | Training und Beratung </title>
     <link>/author/franziska-jungmann/</link>
       <atom:link href="/author/franziska-jungmann/index.xml" rel="self" type="application/rss+xml" />
     <description>Franziska Jungmann</description>
@@ -11,6 +11,6 @@
       <title>Franziska Jungmann</title>
       <link>/author/franziska-jungmann/</link>
     </image>
-    
+
   </channel>
 </rss>

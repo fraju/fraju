@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  für Arbeits- und Organisationspsychologie sowie Personalentwicklung
+  für Arbeits- und Organisationspsychologie sowie Personalentwicklung im Bachelor-Studiengang Wirtschaftspsychologie
   """
 
 
@@ -37,12 +37,20 @@ date_format = "Jan 2006"
   date_start = "2017-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Beschreibung folgt.
   """
+
+[[experience]]
+  title = "Personalentwicklerin mit Schwerpunkt Führung und Gesundheit"
+  company = "Sparda-Bank Berlin"
+  company_url = ""
+  location = "Berlin"
+  date_start = "2017-03-01"
+  date_end = "2017-07-15"
+  description = """
+  Beschreibung folgt.
+  """
+
 
 [[experience]]
   title = "freiberufliche Trainerin, Beraterin und Coach"
@@ -52,11 +60,7 @@ date_format = "Jan 2006"
   date_start = "2008-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Teaching
-  * Research projects
-  * Deploying
+  Beratung von Betrieben, Organisationen und Einzelpersonen u.a. zu psychischer Belastung bei der Arbeit (inkl. Gefährdungsbeurteilung psychische Belastung), alter(n)sgerechte Führung, Training für Führungsnachwuchskräfte sowie Evaluation von Maßnahmen der Personal- und Organisationsentwicklung.
   """
 
 [[experience]]
@@ -67,37 +71,40 @@ date_format = "Jan 2006"
   date_start = "2009-11-01"
   date_end = "2015-10-31"
   description = """
-  Responsibilities include:
+  Tätigkeiten in Forschung und Lehre am Lehrstuhl für Arbeits- und Organisationspsychologie, u.a.
   
-  * Teaching
-  * Research projects
-  * Deploying
+  * Durchführung von Forschungsprojekten, inkl. Anwerben von Drittmittelprojekten, Koordination von Projekten und Budgetverwaltung, Anleitung von wissenschaftlichen und studentischen Mitarbeitenden, Betreuung der Praxispartner
+  * Konzipierung und Durchführung von Mitarbeiterbefragungen, Interviews und Workshops
+  * Statistische Aufbereitung und Auswertung von Daten
+  * Wissenschaftliche sowie praxisorientierte Veröffentlichungen (Zeitschriften, Buchkapitel, Tagungen und Konferenzen)
+  * Betreuung von studentischen Abschlussarbeiten
+  * Mitwirkung im akademischen Mittelbau
   """
 
 
-[[experience]]
-  title = "Kommunikations- und Verhaltenstrainerin"
-  company = "bonding-studenteninitiative e.V."
-  company_url = ""
-  location = ""
-  date_start = "2008-10-01"
-  date_end = ""
-  description = """10-tätige methodisch didaktische Ausbildung mit Schwerpunkt auf Soft Skill und Gruppendynamik
-  """
+#[[experience]]
+#  title = "Kommunikations- und Verhaltenstrainerin"
+#  company = "bonding-studenteninitiative e.V."
+#  company_url = ""
+#  location = ""
+#  date_start = "2008-10-01"
+#  date_end = ""
+#  description = """10-tätige methodisch didaktische Ausbildung mit Schwerpunkt auf Soft Skill und #Gruppendynamik
+#  """
 
-[[experience]]
-  title = "Abschluss Diplom-Psychologie"
-  company = "TU Dresden"
-  company_url = ""
-  location = "Dresden"
-  date_start = "2002-10-01"
-  date_end = "2009-10-31"
-  description = """
-  Schwerpunkte:
-  
-  * Arbeits- und Organisationspsychologie
-  * Personalpsychologie
-  * Biologische und Gesundheitspsychologie
-  """
+#[[experience]]
+#  title = "Abschluss Diplom-Psychologie"
+#  company = "TU Dresden"
+#  company_url = ""
+#  location = "Dresden"
+#  date_start = "2002-10-01"
+#  date_end = "2009-10-31"
+#  description = """
+#  Schwerpunkte:
+#  
+#  * Arbeits- und Organisationspsychologie
+#  * Personalpsychologie
+#  * Biologische und Gesundheitspsychologie
+#  """
 
 +++

@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
-subtitle = ""
+title = "Leistungen"
+subtitle = "Bei welchen Themen ich Sie begleite und unterstütze"
 
 [content]
   # Page type to display. E.g. project.
@@ -26,8 +26,8 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  # name = "Deep Learning"
+  # tag = "Deep Learning"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -54,7 +54,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  color = ""
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"

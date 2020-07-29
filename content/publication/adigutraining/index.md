@@ -24,8 +24,8 @@ abstract: "The ongoing demographic change in most European countries increases t
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["training", "leadership", "aging workforce"]
-categories: []
+tags: ["training", "leadership", "aging workforce", "altersgerechte Arbeit", "alternsgerechte Arbeit", "alternsgerechte Führung", "demographischer Wandel"]
+categories: ["Beratung", "Training", "Workshop"]
 featured: false
 
 # Custom links (optional).
