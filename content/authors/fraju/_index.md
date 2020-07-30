@@ -80,7 +80,7 @@ user_groups:
 ---
 
 
-Ich bin Arbeits- und Organisationspsychologin und seit 2008 als Beraterin und Trainerin tätig, vor allem zum Thema gesunde Arbeit, Führungskompetenzen und Teamentwicklung. Ich begleite Menschen und Organisationen mit Coachings, Moderationen, Teamentwicklungen sowie Workshops und Trainings für Fach- und Führungskräfte. 
+Ich bin Arbeits- und Organisationspsychologin und seit 2008 als Beraterin und Trainerin tätig, vor allem zum Thema gesunde Arbeit, Führungskompetenzen und Teamentwicklung. Ich begleite Menschen, Teams und Organisationen mit Coachings, Moderationen, Teamentwicklungen sowie Workshops und Trainings für Fach- und Führungskräfte. 
 
 Nach meinem Diplom-Studium in Psychologie habe ich zum Thema Diversität, Führung und Gesundheit in der Arbeitswelt geforscht und gelehrt. In dieser Zeit habe ich zum Thema Führung von jungen und alten Mitarbeitern im Arbeitskontext promoviert. Seither arbeitete ich in verschiedenen Organisationen im Bereich Personal- und Organisationsentwicklung (u.a. Gesundheitswesen, Bank, öffentlicher Dienst) und war als nebenberufliche Lehrbeauftragte an staatlichen und privaten Hochschulen tätig. 
 
