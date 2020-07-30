@@ -18,3 +18,7 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+#[de]
+#  languageCode = "de"
+#  contentDir = "content/zh"

@@ -24,13 +24,12 @@ role: Training, Coaching, Beratung
 # Short bio (displayed in user profile at end of posts)
 bio: Als Arbeits- und Organisationspsychologin unterstütze und begleite ich Sie rund um das Personal- und Organisationsentwicklung - von der Analyse und Konzipierung bis zur Umsetzung und  Evaluation. Mein Fokus liegt dabei auf den Themen Führung, Teamarbeit, Diversität und gesunde Arbeit.
 
-
-Interessen:
+interests:
   - Führung und Teamarbeit
   - Diversität und Demographie
   - Arbeit und Gesundheit
 
-Ausbildung:
+education:
   courses:
   - course: Promotion in Arbeits- und Organisationspsychologie
     institution: TU Dresden
@@ -73,11 +72,18 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+#Mitgliedschaften:
+#* Deutsche Gesellschaft für Psychologie (DPGs)
+#* Berufsverband Deutscher Psychologen (BDP)
+
 ---
 
 
-Ich bin Arbeits- und Organisationspsychologin und seit 2008 als Beratin und Trainerin tätig, vor allem zum Thema gesunde Arbeit, Führungskompetenzen und Teamentwicklung. Ich begleite Menschen und Organisationen mit Einzelcoachings, Moderationen, Teamentwicklungen sowie Workshops und Trainings für Fach- und Führungskräfte. 
+Ich bin Arbeits- und Organisationspsychologin und seit 2008 als Beraterin und Trainerin tätig, vor allem zum Thema gesunde Arbeit, Führungskompetenzen und Teamentwicklung. Ich begleite Menschen und Organisationen mit Coachings, Moderationen, Teamentwicklungen sowie Workshops und Trainings für Fach- und Führungskräfte. 
 
 Nach meinem Diplom-Studium in Psychologie habe ich zum Thema Diversität, Führung und Gesundheit in der Arbeitswelt geforscht und gelehrt. In dieser Zeit habe ich zum Thema Führung von jungen und alten Mitarbeitern im Arbeitskontext promoviert. Seither arbeitete ich in verschiedenen Organisationen im Bereich Personal- und Organisationsentwicklung (u.a. Gesundheitswesen, Bank, öffentlicher Dienst) und war als nebenberufliche Lehrbeauftragte an staatlichen und privaten Hochschulen tätig. 
 
 Arbeitswelt und Forschung? Sowohl die Praxis als auch die Forschung zu Arbeit und Organisationen können viel voneinander profitieren und lernen. Daher ist es mir besonders wichtig, eine Verbindung zwischen Wissenschaft und Praxis zu schaffen (u.a. wissenschaftliche Erkenntnisse in die Praxis bringen oder auch Maßnahmen in der Personal- und Organisationsentwicklung evidenzbasiert gestalten und evaluieren). Wissenschaftlich arbeite ich u.a. an den Themen der psychischen Belastung bei der Arbeit, der Zusammenarbeit von Jung und Alt und der Konzipierung sowie Evaluation von Maßnahmen der Führungskräfteentwicklung.
+
+
