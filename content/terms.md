@@ -5,6 +5,7 @@ draft: true
 share: false
 commentable: false
 editable: false
+slug: TermsJUF
 
 # Optional header image (relative to `static/img/` folder).
 header:

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Training und Beratung | Dr. Franziska Jungmann</title>
+    <title>Dr. Franziska Jungmann</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Training und Beratung | Dr. Franziska Jungmann</description>
+    <description>Dr. Franziska Jungmann</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2020 14:59:33 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Training und Beratung | Dr. Franziska Jungmann</title>
+      <title>Dr. Franziska Jungmann</title>
       <link>/</link>
     </image>
     
@@ -69,8 +69,8 @@ Wir wollen die psychischen Belastungen unserer Mitarbeiter analysieren - aber wi
       <guid>/project/lehre/</guid>
       <description>&lt;p&gt;Seit Beginn meiner wissenschaftlichen Tätigkeit in 2009 bin ich als Dozentin in der Lehre tätig.
 Mich begeistert es, mit Studierenden die angewandten Themen der Psychologie im Arbeitskontext zu erarbeiten und zu diskutieren.
-Zudem fordert mich die Lehre und gibt mir die Chance, mich mit aktuellen Entwicklungen in meinem Fach auseinanderzusetzen.
-Daher bin ich auch nach dem Abschlus meiner wissenschaftlichen Tätigkeit noch als nebenberufliche Lehrbeauftragte an verschiedenen Universitäten und Hochschulen in der Durchführung von Lehrveranstaltungen sowie in der Betreuung von studentischen Abschlussarbeiten tätig.&lt;/p&gt;
+Zudem fordert mich die Lehre und gibt mir die Chance, mich mit aktuellen Entwicklungen in der Arbeits- und Organisationspsychologie auseinanderzusetzen.
+Daher bin ich auch nach dem Abschluss meiner wissenschaftlichen Tätigkeit noch als nebenberufliche Lehrbeauftragte an verschiedenen Universitäten und Hochschulen in der Durchführung von Lehrveranstaltungen sowie in der Betreuung von studentischen Abschlussarbeiten tätig.&lt;/p&gt;
 &lt;h2 id=&#34;lehrveranstaltungen-an-universitäten-und-hochschulen&#34;&gt;Lehrveranstaltungen an Universitäten und Hochschulen:&lt;/h2&gt;
 &lt;p&gt;Lehrinhalte meiner Seminare, Trainings und Workshops mit Studierenden an Universitäten sowie privaten Hochschulen sind:&lt;/p&gt;
 &lt;ul&gt;
@@ -105,32 +105,18 @@ Daher bin ich auch nach dem Abschlus meiner wissenschaftlichen Tätigkeit noch a
     </item>
     
     <item>
-      <title>Personal auswählen und entwickeln</title>
+      <title>Mitarbeitende auswählen und entwickeln</title>
       <link>/project/fuehrung/</link>
       <pubDate>Mon, 27 Jul 2020 15:49:31 +0200</pubDate>
       <guid>/project/fuehrung/</guid>
-      <description>&lt;p&gt;Zuverlässige Personaldiagnostik und wirksame Personalentwicklung.&lt;/p&gt;
-&lt;p&gt;Beschreibung folgt.&lt;/p&gt;
+      <description>&lt;p&gt;Beschreibung folgt.&lt;/p&gt;
 &lt;h3 id=&#34;portfolio-ua&#34;&gt;Portfolio, u.a.&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zur Konzipierung von Verfahren zur Identifikation von und Förderung von Nachwuchsführungskräften&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zur Konzipierung von Verfahren der Personalauswahl&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zur Gestaltung und Implementierung von Entwicklungs- und Förderungsprogrammen für Spezialisten/ Fachkräfte und Führungskräfte&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zu Evaluationsstrategien der Personalentwicklung sowie Begleitung bei der Evaluation (u.a. Konzipierung und Durchführung von Befragungen, Interviews oder Workshops)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Schulung zu Strategien und Verfahren der Personalauswahl&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Schulung zu Strategien und Verfahren der Personalentwicklung&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Beratung zur Konzipierung von Verfahren zur Identifikation von und Förderung von Nachwuchsführungskräften&lt;/li&gt;
+&lt;li&gt;Beratung zur Konzipierung von Verfahren der Personalauswahl&lt;/li&gt;
+&lt;li&gt;Beratung zur Gestaltung und Implementierung von Entwicklungs- und Förderungsprogrammen für Spezialisten/ Fachkräfte und Führungskräfte&lt;/li&gt;
+&lt;li&gt;Beratung zu Evaluationsstrategien der Personalentwicklung sowie Begleitung bei der Evaluation (u.a. Konzipierung und Durchführung von Befragungen, Interviews oder Workshops)&lt;/li&gt;
+&lt;li&gt;Schulung zu Strategien und Verfahren der Personalauswahl und Personalentwicklung&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -140,24 +126,30 @@ Daher bin ich auch nach dem Abschlus meiner wissenschaftlichen Tätigkeit noch a
       <link>/project/beratung/</link>
       <pubDate>Mon, 27 Jul 2020 15:44:30 +0200</pubDate>
       <guid>/project/beratung/</guid>
-      <description>&lt;p&gt;Sie wollen sich entwickeln, verändern oder entscheiden?
+      <description>&lt;p&gt;Sie wollen sich beruflich entwickeln oder verändern?
+Sie möchten sich Ihrer Begabungen und Stärken bewusst werden?&lt;br&gt;
+Sie suchen jemanden, der mit Ihnen Ihre berufliche Situation und Rolle reflektiert?
 Sie wollen Ihrer beruflichen Rolle gerecht werden?
-Sie suchen jemanden, der Sie beim Verfolgen kleinerer oder größerer Ziele unterstützt?&lt;/p&gt;
-&lt;p&gt;Als Coach unterstütze ich Personen oder Teams dabei, bei ihren Themen Klarheit zu finden, diese zu bearbeiten, zu reflektieren und auch umzusetzen. Sie und Ihr Anliegen bestimmen den Inhalt. Ihre Stärken stehen im Fokus und sind der Schlüssel zur Veränderung der Situation.&lt;/p&gt;
+Sie suchen jemanden, der Sie beim Verfolgen kleinerer oder größerer Ziele unterstützt?
+Sie möchten den Übergang vom Studium bzw. der Promotions ins Berufsleben aktiv gestalten?&lt;/p&gt;
+&lt;p&gt;Als Coach unterstütze ich Sie dabei, bei Ihren Themen Klarheit zu finden, diese zu bearbeiten, zu reflektieren und auch umzusetzen. Sie und Ihr Anliegen bestimmen den Inhalt. Gemeinsam auf Augenhöhe begleite ich Sie durch Fragen, Anregungen und Coaching-Methoden bei Ihren anstehenden beruflichen Entscheidung und Entwicklungsprozessen.
+Meine Arbeitsweise ist dabei systemisch und lösungsorientiert mit Fokus auf Ihre Ressourcen und Stärken.&lt;/p&gt;
 &lt;h2 id=&#34;mögliche-themen-im-coaching-sind&#34;&gt;Mögliche Themen im Coaching sind&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Positionierung in einer Fach-/ Führungsrolle&lt;/li&gt;
 &lt;li&gt;Kommunikation und Konflikte&lt;/li&gt;
 &lt;li&gt;Berufliche Neu-/ Umorientierung&lt;/li&gt;
+&lt;li&gt;Einstieg ins Berufsleben nach Studium und Promotion&lt;/li&gt;
 &lt;li&gt;Entwicklung persönlicher Kompetenzen&lt;/li&gt;
 &lt;li&gt;Stärkung individueller Ressourcen&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;zielgruppen&#34;&gt;Zielgruppen&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Young Professionals&lt;/li&gt;
+&lt;li&gt;Absolventen und Young Professionals&lt;/li&gt;
 &lt;li&gt;junge bzw. neu berufene Führungskräfte&lt;/li&gt;
 &lt;li&gt;weibliche Führungskräfte&lt;/li&gt;
 &lt;li&gt;Fachexperten&lt;/li&gt;
+&lt;li&gt;Doktoranden und Wissenschaftler&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -168,6 +160,34 @@ Sie suchen jemanden, der Sie beim Verfolgen kleinerer oder größerer Ziele unte
       <pubDate>Wed, 08 Jul 2020 23:01:04 +0200</pubDate>
       <guid>/publication/adigutraining/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>/impressum/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/impressum/</guid>
+      <description>&lt;h3 id=&#34;verantwortlich-für-den-inhalt&#34;&gt;Verantwortlich für den Inhalt:&lt;/h3&gt;
+&lt;p&gt;Franziska Jungmann&lt;/p&gt;
+&lt;p&gt;Mühsamstr. 63&lt;/p&gt;
+&lt;p&gt;10249 Berlin&lt;/p&gt;
+&lt;h4 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h4&gt;
+&lt;p&gt;Telefon: +49 173 378 25 72&lt;/p&gt;
+&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:franziska.jungmann.beratung@gmail.com&#34;&gt;franziska.jungmann.beratung@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;streitschlichtung-verbraucherstreitbeilegung--universalschlichtungsstelle&#34;&gt;Streitschlichtung (Verbraucherstreitbeilegung / Universalschlichtungsstelle)&lt;/h3&gt;
+&lt;p&gt;Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.&lt;/p&gt;
+&lt;h3 id=&#34;haftungsausschluss-disclaimer&#34;&gt;Haftungsausschluss (Disclaimer):&lt;/h3&gt;
+&lt;h4 id=&#34;haftung-fur-inhalte&#34;&gt;Haftung für Inhalte&lt;/h4&gt;
+&lt;p&gt;Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.&lt;/p&gt;
+&lt;p&gt;Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;h4 id=&#34;haftung-fur-links&#34;&gt;Haftung für Links&lt;/h4&gt;
+&lt;p&gt;Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.&lt;/p&gt;
+&lt;p&gt;Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
+&lt;h4 id=&#34;urheberrecht&#34;&gt;Urheberrecht&lt;/h4&gt;
+&lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.&lt;/p&gt;
+&lt;p&gt;Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;p&gt;Quelle: &lt;a href=&#34;http://www.e-recht24.de/muster-disclaimer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eRecht24 Disclaimer&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

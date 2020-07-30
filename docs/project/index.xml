@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Training und Beratung | Dr. Franziska Jungmann</title>
+    <title>Projects | Dr. Franziska Jungmann</title>
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
@@ -69,8 +69,8 @@ Wir wollen die psychischen Belastungen unserer Mitarbeiter analysieren - aber wi
       <guid>/project/lehre/</guid>
       <description>&lt;p&gt;Seit Beginn meiner wissenschaftlichen Tätigkeit in 2009 bin ich als Dozentin in der Lehre tätig.
 Mich begeistert es, mit Studierenden die angewandten Themen der Psychologie im Arbeitskontext zu erarbeiten und zu diskutieren.
-Zudem fordert mich die Lehre und gibt mir die Chance, mich mit aktuellen Entwicklungen in meinem Fach auseinanderzusetzen.
-Daher bin ich auch nach dem Abschlus meiner wissenschaftlichen Tätigkeit noch als nebenberufliche Lehrbeauftragte an verschiedenen Universitäten und Hochschulen in der Durchführung von Lehrveranstaltungen sowie in der Betreuung von studentischen Abschlussarbeiten tätig.&lt;/p&gt;
+Zudem fordert mich die Lehre und gibt mir die Chance, mich mit aktuellen Entwicklungen in der Arbeits- und Organisationspsychologie auseinanderzusetzen.
+Daher bin ich auch nach dem Abschluss meiner wissenschaftlichen Tätigkeit noch als nebenberufliche Lehrbeauftragte an verschiedenen Universitäten und Hochschulen in der Durchführung von Lehrveranstaltungen sowie in der Betreuung von studentischen Abschlussarbeiten tätig.&lt;/p&gt;
 &lt;h2 id=&#34;lehrveranstaltungen-an-universitäten-und-hochschulen&#34;&gt;Lehrveranstaltungen an Universitäten und Hochschulen:&lt;/h2&gt;
 &lt;p&gt;Lehrinhalte meiner Seminare, Trainings und Workshops mit Studierenden an Universitäten sowie privaten Hochschulen sind:&lt;/p&gt;
 &lt;ul&gt;
@@ -105,32 +105,18 @@ Daher bin ich auch nach dem Abschlus meiner wissenschaftlichen Tätigkeit noch a
     </item>
     
     <item>
-      <title>Personal auswählen und entwickeln</title>
+      <title>Mitarbeitende auswählen und entwickeln</title>
       <link>/project/fuehrung/</link>
       <pubDate>Mon, 27 Jul 2020 15:49:31 +0200</pubDate>
       <guid>/project/fuehrung/</guid>
-      <description>&lt;p&gt;Zuverlässige Personaldiagnostik und wirksame Personalentwicklung.&lt;/p&gt;
-&lt;p&gt;Beschreibung folgt.&lt;/p&gt;
+      <description>&lt;p&gt;Beschreibung folgt.&lt;/p&gt;
 &lt;h3 id=&#34;portfolio-ua&#34;&gt;Portfolio, u.a.&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zur Konzipierung von Verfahren zur Identifikation von und Förderung von Nachwuchsführungskräften&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zur Konzipierung von Verfahren der Personalauswahl&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zur Gestaltung und Implementierung von Entwicklungs- und Förderungsprogrammen für Spezialisten/ Fachkräfte und Führungskräfte&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zu Evaluationsstrategien der Personalentwicklung sowie Begleitung bei der Evaluation (u.a. Konzipierung und Durchführung von Befragungen, Interviews oder Workshops)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Schulung zu Strategien und Verfahren der Personalauswahl&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Schulung zu Strategien und Verfahren der Personalentwicklung&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Beratung zur Konzipierung von Verfahren zur Identifikation von und Förderung von Nachwuchsführungskräften&lt;/li&gt;
+&lt;li&gt;Beratung zur Konzipierung von Verfahren der Personalauswahl&lt;/li&gt;
+&lt;li&gt;Beratung zur Gestaltung und Implementierung von Entwicklungs- und Förderungsprogrammen für Spezialisten/ Fachkräfte und Führungskräfte&lt;/li&gt;
+&lt;li&gt;Beratung zu Evaluationsstrategien der Personalentwicklung sowie Begleitung bei der Evaluation (u.a. Konzipierung und Durchführung von Befragungen, Interviews oder Workshops)&lt;/li&gt;
+&lt;li&gt;Schulung zu Strategien und Verfahren der Personalauswahl und Personalentwicklung&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -140,24 +126,30 @@ Daher bin ich auch nach dem Abschlus meiner wissenschaftlichen Tätigkeit noch a
       <link>/project/beratung/</link>
       <pubDate>Mon, 27 Jul 2020 15:44:30 +0200</pubDate>
       <guid>/project/beratung/</guid>
-      <description>&lt;p&gt;Sie wollen sich entwickeln, verändern oder entscheiden?
+      <description>&lt;p&gt;Sie wollen sich beruflich entwickeln oder verändern?
+Sie möchten sich Ihrer Begabungen und Stärken bewusst werden?&lt;br&gt;
+Sie suchen jemanden, der mit Ihnen Ihre berufliche Situation und Rolle reflektiert?
 Sie wollen Ihrer beruflichen Rolle gerecht werden?
-Sie suchen jemanden, der Sie beim Verfolgen kleinerer oder größerer Ziele unterstützt?&lt;/p&gt;
-&lt;p&gt;Als Coach unterstütze ich Personen oder Teams dabei, bei ihren Themen Klarheit zu finden, diese zu bearbeiten, zu reflektieren und auch umzusetzen. Sie und Ihr Anliegen bestimmen den Inhalt. Ihre Stärken stehen im Fokus und sind der Schlüssel zur Veränderung der Situation.&lt;/p&gt;
+Sie suchen jemanden, der Sie beim Verfolgen kleinerer oder größerer Ziele unterstützt?
+Sie möchten den Übergang vom Studium bzw. der Promotions ins Berufsleben aktiv gestalten?&lt;/p&gt;
+&lt;p&gt;Als Coach unterstütze ich Sie dabei, bei Ihren Themen Klarheit zu finden, diese zu bearbeiten, zu reflektieren und auch umzusetzen. Sie und Ihr Anliegen bestimmen den Inhalt. Gemeinsam auf Augenhöhe begleite ich Sie durch Fragen, Anregungen und Coaching-Methoden bei Ihren anstehenden beruflichen Entscheidung und Entwicklungsprozessen.
+Meine Arbeitsweise ist dabei systemisch und lösungsorientiert mit Fokus auf Ihre Ressourcen und Stärken.&lt;/p&gt;
 &lt;h2 id=&#34;mögliche-themen-im-coaching-sind&#34;&gt;Mögliche Themen im Coaching sind&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Positionierung in einer Fach-/ Führungsrolle&lt;/li&gt;
 &lt;li&gt;Kommunikation und Konflikte&lt;/li&gt;
 &lt;li&gt;Berufliche Neu-/ Umorientierung&lt;/li&gt;
+&lt;li&gt;Einstieg ins Berufsleben nach Studium und Promotion&lt;/li&gt;
 &lt;li&gt;Entwicklung persönlicher Kompetenzen&lt;/li&gt;
 &lt;li&gt;Stärkung individueller Ressourcen&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;zielgruppen&#34;&gt;Zielgruppen&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Young Professionals&lt;/li&gt;
+&lt;li&gt;Absolventen und Young Professionals&lt;/li&gt;
 &lt;li&gt;junge bzw. neu berufene Führungskräfte&lt;/li&gt;
 &lt;li&gt;weibliche Führungskräfte&lt;/li&gt;
 &lt;li&gt;Fachexperten&lt;/li&gt;
+&lt;li&gt;Doktoranden und Wissenschaftler&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Personal auswählen und entwickeln"
+title: "Mitarbeitende auswählen und entwickeln"
 summary: "Fach- und Führungskräfte zuverlässig auswählen und wirksam entwickeln"
 authors: []
 tags: ["Führung", "Führungskräfte", "Personalauswahl", "Personalentwicklung", "Evaluation"]
@@ -38,9 +38,11 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+#Zuverlässige Personaldiagnostik und wirksame Personalentwicklung.
+
 ---
 
-Zuverlässige Personaldiagnostik und wirksame Personalentwicklung.
 
 Beschreibung folgt.
 
@@ -49,12 +51,9 @@ Beschreibung folgt.
 
 * Beratung zur Konzipierung von Verfahren zur Identifikation von und Förderung von Nachwuchsführungskräften
 * Beratung zur Konzipierung von Verfahren der Personalauswahl
-
 * Beratung zur Gestaltung und Implementierung von Entwicklungs- und Förderungsprogrammen für Spezialisten/ Fachkräfte und Führungskräfte 
 * Beratung zu Evaluationsstrategien der Personalentwicklung sowie Begleitung bei der Evaluation (u.a. Konzipierung und Durchführung von Befragungen, Interviews oder Workshops)
-
-* Schulung zu Strategien und Verfahren der Personalauswahl 
-* Schulung zu Strategien und Verfahren der Personalentwicklung
+* Schulung zu Strategien und Verfahren der Personalauswahl und Personalentwicklung
 
 
 

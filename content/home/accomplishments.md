@@ -71,8 +71,8 @@ date_format = "Jan 2006"
   title = "Verhaltens- und Kommunikationstrainerin"
   url = ""
   # certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = "2008-10-01"
+  date_end = ""
   description = ""
 
 # 10-tägige methodisch-didaktische Ausbildung in der Konzipierung und Durchführung von Workshops und Trainings mit Fokus auf Softskill- und Verhaltenstrainings sowie Gruppendynamik und Teamentwicklung. 

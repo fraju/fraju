@@ -31,14 +31,18 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Referentin Psychologie in der Arbeitswelt"
-  company = "UVB"
+  company = "Unfallversicherung Bund und Bahn (UVB)"
   company_url = ""
   location = "Berlin"
-  date_start = "2017-08-01"
+  date_start = "2017-08-15"
   date_end = ""
   description = """
-  Beschreibung folgt.
+  Tätigkeiten in Prävention zur Förderung der Gesundheit, Leistungsbereitschaft und Zufriedenheit der Mitarbeitenden  
+  * Beratung zu u.a. betrieblicher Gesundheit und Gefährdungsbeurteilung psychische Belastung
+  * Beratung zur Analyse der betrieblichen Situation, u.a. situative Auswahl von Analyseinstrumenten, Konzipierung und Umsetzung von Mitarbeiterbefragungen (inkl. Fragebogenkonstruktion und Leitfadenentwicklung) 
+  * Entwicklung und Leitung von Seminaren für Fach- und Führungskräfte
   """
+
 
 [[experience]]
   title = "Personalentwicklerin mit Schwerpunkt Führung und Gesundheit"
@@ -46,9 +50,12 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Berlin"
   date_start = "2017-03-01"
-  date_end = "2017-07-15"
+  date_end = "2017-07-31"
   description = """
-  Beschreibung folgt.
+  
+  * Konzeption und Implementierung von Instrumenten und Prozessen der Personalentwicklung, basierend auf Bedarfserhebungen
+  * Ableitung von Entwicklungsmaßnahmen für Führungskräfte
+  * Durchführung von Moderationen und Workshops
   """
 
 
@@ -61,6 +68,25 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Beratung von Betrieben, Organisationen und Einzelpersonen u.a. zu psychischer Belastung bei der Arbeit (inkl. Gefährdungsbeurteilung psychische Belastung), alter(n)sgerechte Führung, Training für Führungsnachwuchskräfte sowie Evaluation von Maßnahmen der Personal- und Organisationsentwicklung.
+  """
+
+
+[[experience]]
+  title = "wissenschaftliche Mitarbeiterin & Projektleitung"
+  company = "Universitätsklinikum Düsseldorf"
+  company_url = ""
+  location = "Düsseldorf"
+  date_start = "2016-02-01"
+  date_end = "2016-08-31"
+  description = """
+  Tätigkeiten in Forschung am Institut für Arbeits- und Sozialmedizin, u.a.
+  
+  * Koordination und Mitarbeit in einem Projekt zur Erfassung und Prävention psychischer Belastungen und Gesundheit in Industrie 4.0
+  * Konzipierung, Durchführung und Auswertung von strukturierten Interviews
+  * Akquise und Betreuung der Praxispartner
+  * Planung und Moderation von Projekttreffen
+  * Anleitung der Nachwuchswissenschaftler/-innen im Verbund
+  * Wissenschaftliche sowie praxisorientierte Veröffentlichungen
   """
 
 [[experience]]

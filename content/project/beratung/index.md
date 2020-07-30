@@ -40,24 +40,31 @@ url_video: ""
 slides: ""
 ---
 
-Sie wollen sich entwickeln, verändern oder entscheiden?
-Sie wollen Ihrer beruflichen Rolle gerecht werden?
+Sie wollen sich beruflich entwickeln oder verändern?
+Sie möchten sich Ihrer Begabungen und Stärken bewusst werden?  
+Sie suchen jemanden, der mit Ihnen Ihre berufliche Situation und Rolle reflektiert?
+Sie wollen Ihrer beruflichen Rolle gerecht werden? 
 Sie suchen jemanden, der Sie beim Verfolgen kleinerer oder größerer Ziele unterstützt?
+Sie möchten den Übergang vom Studium bzw. der Promotions ins Berufsleben aktiv gestalten? 
 
 
-Als Coach unterstütze ich Personen oder Teams dabei, bei ihren Themen Klarheit zu finden, diese zu bearbeiten, zu reflektieren und auch umzusetzen. Sie und Ihr Anliegen bestimmen den Inhalt. Ihre Stärken stehen im Fokus und sind der Schlüssel zur Veränderung der Situation.
+Als Coach unterstütze ich Sie dabei, bei Ihren Themen Klarheit zu finden, diese zu bearbeiten, zu reflektieren und auch umzusetzen. Sie und Ihr Anliegen bestimmen den Inhalt. Gemeinsam auf Augenhöhe begleite ich Sie durch Fragen, Anregungen und Coaching-Methoden bei Ihren anstehenden beruflichen Entscheidung und Entwicklungsprozessen. 
+Meine Arbeitsweise ist dabei systemisch und lösungsorientiert mit Fokus auf Ihre Ressourcen und Stärken.
+
 
 ## Mögliche Themen im Coaching sind
 * Positionierung in einer Fach-/ Führungsrolle
 * Kommunikation und Konflikte
 * Berufliche Neu-/ Umorientierung
+* Einstieg ins Berufsleben nach Studium und Promotion
 * Entwicklung persönlicher Kompetenzen
 * Stärkung individueller Ressourcen
 
 
 ## Zielgruppen
-* Young Professionals
+* Absolventen und Young Professionals
 * junge bzw. neu berufene Führungskräfte
 * weibliche Führungskräfte
 * Fachexperten
+* Doktoranden und Wissenschaftler
 

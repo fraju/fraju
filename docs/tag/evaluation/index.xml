@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evaluation | Training und Beratung | Dr. Franziska Jungmann</title>
+    <title>Evaluation | Dr. Franziska Jungmann</title>
     <link>/tag/evaluation/</link>
       <atom:link href="/tag/evaluation/index.xml" rel="self" type="application/rss+xml" />
     <description>Evaluation</description>
@@ -13,32 +13,18 @@
     </image>
     
     <item>
-      <title>Personal auswählen und entwickeln</title>
+      <title>Mitarbeitende auswählen und entwickeln</title>
       <link>/project/fuehrung/</link>
       <pubDate>Mon, 27 Jul 2020 15:49:31 +0200</pubDate>
       <guid>/project/fuehrung/</guid>
-      <description>&lt;p&gt;Zuverlässige Personaldiagnostik und wirksame Personalentwicklung.&lt;/p&gt;
-&lt;p&gt;Beschreibung folgt.&lt;/p&gt;
+      <description>&lt;p&gt;Beschreibung folgt.&lt;/p&gt;
 &lt;h3 id=&#34;portfolio-ua&#34;&gt;Portfolio, u.a.&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zur Konzipierung von Verfahren zur Identifikation von und Förderung von Nachwuchsführungskräften&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zur Konzipierung von Verfahren der Personalauswahl&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zur Gestaltung und Implementierung von Entwicklungs- und Förderungsprogrammen für Spezialisten/ Fachkräfte und Führungskräfte&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Beratung zu Evaluationsstrategien der Personalentwicklung sowie Begleitung bei der Evaluation (u.a. Konzipierung und Durchführung von Befragungen, Interviews oder Workshops)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Schulung zu Strategien und Verfahren der Personalauswahl&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Schulung zu Strategien und Verfahren der Personalentwicklung&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Beratung zur Konzipierung von Verfahren zur Identifikation von und Förderung von Nachwuchsführungskräften&lt;/li&gt;
+&lt;li&gt;Beratung zur Konzipierung von Verfahren der Personalauswahl&lt;/li&gt;
+&lt;li&gt;Beratung zur Gestaltung und Implementierung von Entwicklungs- und Förderungsprogrammen für Spezialisten/ Fachkräfte und Führungskräfte&lt;/li&gt;
+&lt;li&gt;Beratung zu Evaluationsstrategien der Personalentwicklung sowie Begleitung bei der Evaluation (u.a. Konzipierung und Durchführung von Befragungen, Interviews oder Workshops)&lt;/li&gt;
+&lt;li&gt;Schulung zu Strategien und Verfahren der Personalauswahl und Personalentwicklung&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

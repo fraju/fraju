@@ -42,8 +42,8 @@ slides: ""
 
 Seit Beginn meiner wissenschaftlichen Tätigkeit in 2009 bin ich als Dozentin in der Lehre tätig. 
 Mich begeistert es, mit Studierenden die angewandten Themen der Psychologie im Arbeitskontext zu erarbeiten und zu diskutieren. 
-Zudem fordert mich die Lehre und gibt mir die Chance, mich mit aktuellen Entwicklungen in meinem Fach auseinanderzusetzen. 
-Daher bin ich auch nach dem Abschlus meiner wissenschaftlichen Tätigkeit noch als nebenberufliche Lehrbeauftragte an verschiedenen Universitäten und Hochschulen in der Durchführung von Lehrveranstaltungen sowie in der Betreuung von studentischen Abschlussarbeiten tätig. 
+Zudem fordert mich die Lehre und gibt mir die Chance, mich mit aktuellen Entwicklungen in der Arbeits- und Organisationspsychologie auseinanderzusetzen. 
+Daher bin ich auch nach dem Abschluss meiner wissenschaftlichen Tätigkeit noch als nebenberufliche Lehrbeauftragte an verschiedenen Universitäten und Hochschulen in der Durchführung von Lehrveranstaltungen sowie in der Betreuung von studentischen Abschlussarbeiten tätig. 
 
 ## Lehrveranstaltungen an Universitäten und Hochschulen:
 
@@ -76,12 +76,4 @@ Lehrinhalte meiner Seminare, Trainings und Workshops mit Studierenden an Univers
 * Esselborn-Krummbiegel, H. (2008). Von der Idee zum Text - Eine Anleitung zum wissenschaftlichen Schreiben. Paderborn: UTB.
 * Peters, J.H. & Dörfler, T. (2019). Planen, Durchführen und Auswerten von Abschlussarbeiten in der Psychologie und den Sozialwissenschaften. Planen, Durchführen und Auswerten (2. Aufl.). Hallbergmoos: Pearson.
 * Peters, J.H. & Dörfler, T. (2019). Schreiben und Gestalten von Abschlussarbeiten in der Psychologie und den Sozialwissenschaften. Planen, Durchführen und Auswerten (2. Aufl.). Hallbergmoos: Pearson.
-
-
-
-
-
-
-
-
 
